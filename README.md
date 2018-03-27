@@ -1,17 +1,18 @@
-# privacy-guide
+# Privacy Guide
 
-- [privacy-guide](#privacy-guide)
-  * [Software](#software)
-  * [Themen](#themen)
+- [Privacy Guide](#privacy-guide)
 - [Inhalt](#inhalt)
-  * [Software](#software-1)
+  * [Software](#software)
     + [Passwort-Manager: KeepassXC](#passwort-manager--keepassxc)
     + [Anonym Surfen: Tor-Browser](#anonym-surfen--tor-browser)
+    + [OpenPGP verschlüsselte Emails: Thunderbird & Enigmail](#openpgp-verschl-sselte-emails--thunderbird---enigmail)
+    + [Pseudonymiserte Emails: TorBirdy](#pseudonymiserte-emails--torbirdy)
+    + [OMEMO-verschlüsselt chatten: Conversations & ChatSecure](#omemo-verschl-sselt-chatten--conversations---chatsecure)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
-## Software
+**Software**
 
   * KeepassXC
     * KeepassXC-Browser
@@ -21,7 +22,7 @@
   * Thunderbird & Enigmail
   * Tor-Browser
   
-## Themen
+**Themen**
 
   * Freie Betriebssysteme
   * Desktop vs. Mobile OS
@@ -53,3 +54,18 @@ Das Addon ist unter folgender Adresse zu finden: https://addons.mozilla.org/de/f
 
 ### Anonym Surfen: Tor-Browser
 **Installation:**
+
+//TODO: 
+
+### OpenPGP verschlüsselte Emails: Thunderbird & Enigmail
+
+//TODO:
+
+### Pseudonymiserte Emails: TorBirdy
+
+//TODO: 
+
+
+### OMEMO-verschlüsselt chatten: Conversations & ChatSecure
+
+//TODO:
