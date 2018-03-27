@@ -1,5 +1,16 @@
 # privacy-guide
 
+- [privacy-guide](#privacy-guide)
+  * [Software](#software)
+  * [Themen](#themen)
+- [Inhalt](#inhalt)
+  * [Software](#software-1)
+    + [Passwort-Manager: KeepassXC](#passwort-manager--keepassxc)
+    + [Anonym Surfen: Tor-Browser](#anonym-surfen--tor-browser)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Software
 
   * KeepassXC
