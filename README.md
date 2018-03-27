@@ -66,3 +66,8 @@ Das Addon ist unter folgender Adresse zu finden: https://addons.mozilla.org/de/f
 ## Verschlüsselte Container: VeraCrypt
 
 //TODO:
+
+# Weitere Links
+**Surveillance Self-Defense | Electronic Frontier Foundation:** https://ssd.eff.org/en
+
+
