@@ -17,7 +17,7 @@
   * Freie Betriebssysteme
   * Desktop vs. Mobile OS
   * Freie Software
-  * Passwörter
+  * Passwörter: https://www.eff.org/dice
   * Full-Disk-Encryption
   * Tor-Browser zum Surfen
   * Email-Verschlüsselung
