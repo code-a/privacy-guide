@@ -1,26 +1,16 @@
 # Privacy Guide
 
-- [Privacy Guide](#privacy-guide)
-- [Inhalt](#inhalt)
-  * [Software](#software)
-    + [Passwort-Manager: KeepassXC](#passwort-manager--keepassxc)
-    + [Anonym Surfen: Tor-Browser](#anonym-surfen--tor-browser)
-    + [OpenPGP verschlüsselte Emails: Thunderbird & Enigmail](#openpgp-verschl-sselte-emails--thunderbird---enigmail)
-    + [Pseudonymiserte Emails: TorBirdy](#pseudonymiserte-emails--torbirdy)
-    + [OMEMO-verschlüsselt chatten: Conversations & ChatSecure](#omemo-verschl-sselt-chatten--conversations---chatsecure)
+- [Software](#software)
+  * [System-Verschlüsselung](#system-verschl-sselung)
+  * [Passwort-Manager: KeepassXC](#passwort-manager--keepassxc)
+  * [Anonym Surfen: Tor-Browser](#anonym-surfen--tor-browser)
+  * [OpenPGP verschlüsselte Emails: Thunderbird & Enigmail](#openpgp-verschl-sselte-emails--thunderbird---enigmail)
+  * [Pseudonymiserte Emails: TorBirdy](#pseudonymiserte-emails--torbirdy)
+  * [OMEMO-verschlüsselt chatten: Conversations & ChatSecure](#omemo-verschl-sselt-chatten--conversations---chatsecure)
+  * [Verschlüsselte Container: VeraCrypt](#verschl-sselte-container--veracrypt)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
-**Software**
-
-  * KeepassXC
-    * KeepassXC-Browser
-  * Veracrypt
-  * Full-Disk-Encryption(luks)
-  * Gajim & OMEMO
-  * Thunderbird & Enigmail
-  * Tor-Browser
   
 **Themen**
 
@@ -33,9 +23,11 @@
   * Email-Verschlüsselung
   * Chat-Verschlüsselung mit XMPP+OMEMO
 
-# Inhalt
-## Software
-### Passwort-Manager: KeepassXC
+# Software
+## System-Verschlüsselung
+//TODO:
+
+## Passwort-Manager: KeepassXC
 **Installation:**
 
 KeepassXC unter folgender Adresse herunterladen und installieren: https://keepassxc.org
@@ -52,20 +44,25 @@ Um Passwörter direkt in Webseiten einfügen zu lassen und neue Passwörter dire
 
 Das Addon ist unter folgender Adresse zu finden: https://addons.mozilla.org/de/firefox/addon/keepassxc-browser/
 
-### Anonym Surfen: Tor-Browser
+## Anonym Surfen: Tor-Browser
 **Installation:**
 
 //TODO: 
 
-### OpenPGP verschlüsselte Emails: Thunderbird & Enigmail
+## OpenPGP verschlüsselte Emails: Thunderbird & Enigmail
 
 //TODO:
 
-### Pseudonymiserte Emails: TorBirdy
+## Pseudonymiserte Emails: TorBirdy
 
 //TODO: 
 
 
-### OMEMO-verschlüsselt chatten: Conversations & ChatSecure
+## OMEMO-verschlüsselt chatten: Conversations & ChatSecure
+
+//TODO:
+
+
+## Verschlüsselte Container: VeraCrypt
 
 //TODO:
