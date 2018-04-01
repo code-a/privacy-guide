@@ -11,7 +11,7 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-  
+
 **Themen**
 
   * Freie Betriebssysteme
@@ -47,15 +47,88 @@ Das Addon ist unter folgender Adresse zu finden: https://addons.mozilla.org/de/f
 ## Anonym Surfen: Tor-Browser
 **Installation:**
 
-//TODO: 
+//TODO:
 
 ## OpenPGP verschlüsselte Emails: Thunderbird & Enigmail
 
-//TODO:
+**Schritt 1:** Thunderbird herunterladen und installieren
+
+Lade dir Thunderbird von der folgenden Seite herunter und installiere es anschließend:
+
+https://www.mozilla.org/thunderbird/
+
+
+**Schritt 2:** Enigmail herunterladen und installieren
+
+Öffne Thunderbird und klicke auf das Menü-Symbol in der oberen rechten Ecke.
+
+Klicke dann im Menü auf den Eintrag “Addons”. Wähle auf der darauf folgenden Seite im linken Bereich “Erweiterungen” bzw. ”Extensions” aus.
+
+Gebe anschließend in der Suchleiste oben rechts “Enigmail” ein und installiere das Addon.
+
+Starte Thunderbird nach der Installation neu.
+
+
+**Schritt 3:** Schlüsselpaar erzeugen
+
+Nach dem Neustart von Thunderbird sollte der Installationsassistent von Enigmail automatisch starten. Falls nicht, starte ihn über Menü → Enigmail → Einrichtungsassistent. Nutze bei der Einrichtung die Standardoptionen außer bei folgenden Punkten:
+
+  * Im Schritt “Verschlüsselung”, wähle “Verschlüssle alle meine Nachrichten”
+  * Im Schritt “Unterschreiben”/”Signatur”, wähle “Meine nachrichten sollen nicht standardmäßig unterschrieben werden”
+  * Im Schritt “Schlüsselauswahl”, wähle “Ich möchte ein neues Schlüsselpaar erzeugen”
+  * Im Schritt “OpenPGP-Schlüssel erzeugen” sollte ein starkes Passwort verwendet werden, das von einem Passwort-Manager erzeugt wurde.
+
+
+Der Schritt “Schlüsselerzeugung” wird einige Minuten dauern. Während dieses Schrittes sollte der Computer für andere Dinge, z.B. zum Surfen, genutzt werden, da hierdurch der Schlüssel schneller generiert wird.
+
+Klicke im Schritt “Enigmail-Bestätigung” auf Zertifikat erzeugen und speichere es in deinem Benutzerverzeichnis in einem Ordner mit dem Namen “Widerrufszertifikat”.
+
+
+**Schritt 4:** Öffentlichen Schlüssel weitergeben
+
+**Schritt 4.1:** als Email-Anhang
+
+Der einfachste Weg deinen Schlüssel weiterzugeben ist, diesen als Anhang in einer Email zu versenden. Falls du den Schlüssel auf diese Weise weitergibst, sollte der Empfänger anschließend den Fingerabdruck des Schlüssels überprüfen.
+
+Mehr dazu unter “Schritt 5: Öffentliche Schlüssel importieren & verifizieren”.
+
+
+**Schritt 4.2:** über Schlüssel-Server
+
+Schlüssel-Server stellen ein Verzeichnisse dar, über die OpenPGP-Schlüssel veröffentlicht  und abgerufen werden können. Zusätzlich synchronisieren sich die meisten Schlüssel-Server mit anderen Schlüssel-Servern.
+
+Achtung: Jeder kann einen Schlüssel für eine beliebige Email-Adresse auf normalen Schlüssel-Servern veröffentlichen.
+
+Bisher gibt es nur wenige Schlüssel-Server die überprüfen, ob die Person die einen Schlüssel hochlädt auch den zugehörigen privaten Schlüssel besitzt und ob diese auch Zugriff auf das Email-Konto hat. Diese Schlüssel-Server sollten allerdings gegenüber der klassischen Schlüssel-Server bevorzugt werden.
+
+Einer dieser Server ist hkps://keys.mailvelope.com
+
+### Anleitung: Öffentlichen Schlüssel auf Schlüssel-Server veröffentlichen
+
+Wähle im Thunderbird-Menü Enigmail → Schlüssel verwalten aus.
+Wähle deinen Schlüssel mit einem Rechtsklick aus und klicke auf “Öffentliche Schlüssel in die Zwischenablage kopieren”.
+Rufe im Browser die folgende Adresse auf:  https://keys.mailvelope.com/demo.html
+
+Füge deinen Schlüssel mit Rechtsklick → Einfügen in das Textfeld unter “OpenPGP Key Upload” ein und klicke anschließend auf den Button “Upload”.
+
+Anschließend sollte in Thunderbird eine neue Email mit dem Betreff “Verify Your Key” ankommen. Öffne die Email in dem du sie anklickst und danach das Passwort für deinen OpenPGP-Schlüssel eingibst um die Email zu entschlüsseln.
+
+Öffne anschließend den Link in der Email.
+Auf der geöffneten Seite sollte nun “Email address successfully verified!” stehen mit einem zusätzlichen Link, mit dem du deinen Schlüssel teilen kannst.
+
+
+**Schritt 5:** Öffentliche Schlüssel importieren & verifizieren
+
+Um einen öffentlichen Schlüsel zu importieren kannst du diesen:
+
+  * falls er per email zugesendet wurde: direkt mit einem rechtsklick darauf importieren oder
+  * falls der Schlüssel auf andere Weise empfangen wurde(z.B. über schlüssel-Server): Durch das Öffnen von Menü → Enigmail → Schlüsselverwaltung → Schlüssel importieren.
+
+Um einen Schlüssel zu verifizieren rufst du am besten die Person zu der der Schlüssel   gehört an und gleichst mit der Person den Fingerprint des Schlüssels ab. Den Fingerprint   des Schlüssels kannst du dir unter Menü → Enigmail → Schlüsselverwaltung anzeigen lassen. Schlüssel sollten verifiziert werden, um sicher zu stellen das ein Angreifer den Schlüssel  beim Transport nicht ausgetauscht hat.
 
 ## Pseudonymiserte Emails: TorBirdy
 
-//TODO: 
+//TODO:
 
 
 ## OMEMO-verschlüsselt chatten: Conversations & ChatSecure
@@ -69,5 +142,3 @@ Das Addon ist unter folgender Adresse zu finden: https://addons.mozilla.org/de/f
 
 # Weitere Links
 **Surveillance Self-Defense | Electronic Frontier Foundation:** https://ssd.eff.org/en
-
-
