@@ -133,8 +133,42 @@ Um einen Schlüssel zu verifizieren rufst du am besten die Person zu der der Sch
 
 ## OMEMO-verschlüsselt chatten: Conversations & ChatSecure
 
-//TODO:
+### Android: Conversations
 
+#### Installation
+  * Auf dem Gerät unter *Einstellungen -> Sicherheit -> Unbekannte Herkunft(Installation von Apps aus unbekannten Quellen zulassen)* **aktivieren**
+  *  Die F-Droid-App von f-droid.org herunterladen
+  * Die F-Droid-App öffnen und dort die App “Conversations” suchen und installieren
+
+#### Account einrichten
+
+Übersicht kostenloser Jabber/XMPP-Anbieter:
+  * systemli.org (Registrierung nur über Web-Interface)
+  * jabber.ccc.de
+  * jabber.de
+
+Conversations starten und die Jabber-ID(ähnelt einer Email-Adresse) und das Passwort eintragen.
+
+Falls du das Konto noch nicht registriert hast zusätzlich den Haken bei **Neues Konto auf Server erstellen** setzen.
+
+
+#### Kontakte hinzufügen
+Um eine verschlüsselte Kommunikation starten zu können solltest du als erstes Kontakte hinzufügen.
+
+Gehe dazu über das Menü oben rechts auf + und anschließend auf das zweite Symbol von rechts.
+Gebe anschließend die Jabber-ID des Kontakts ein und klicke auf OK.
+
+#### Verschlüsselte Konversation & Schlüssel-Verifizierung
+
+Mit einem Klick auf den Kontakt in der Kontaktliste kann eine neue Konversation gestartet werden. Wenn das Gesprächsfenster geöffnet wurde sollte man als erstes auf das Schloss- Symbol drücken und anschließend OMEMO auswählen.
+
+Falls das nicht möglich ist muss als erstes OTR ausgewählt werden und nach einer ersten Testnachricht auf OMEMO umgeschaltet werden.
+
+Anschließend sollte der Schlüssel verfiziert werden. Folgende Optionen stehen dafür zur Verfügung:
+
+  * **SMP:** Mit SMP muss eine der beiden Personen eine Frage stellen und die Antwort zu der Frage eingeben. Die andere Person bekommt dann die Frage zugesendet und muss diese beantworten. Die Antwort muss hierbei nicht komplex sein, da die andere Person nie die Klartext-Antwort erhält.
+
+  * **Fingerprints vergleichen:** Alternativ zu SMP können auch die Fingerprints verglichen werden zum Beispiel per Telefon
 
 ## Verschlüsselte Container: VeraCrypt
 
