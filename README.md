@@ -25,7 +25,7 @@
 
 # Software
 ## System-Verschlüsselung
-//TODO:
+//TODO: 
 
 ## Passwort-Manager: KeepassXC
 **Installation:**
@@ -45,9 +45,25 @@ Um Passwörter direkt in Webseiten einfügen zu lassen und neue Passwörter dire
 Das Addon ist unter folgender Adresse zu finden: https://addons.mozilla.org/de/firefox/addon/keepassxc-browser/
 
 ## Anonym Surfen: Tor-Browser
-**Installation:**
 
-//TODO:
+**Schritt 1:** Herunterladen und Installation
+
+Lade dir den tor-Browser von der folgenden Seite herunter und installiere ihn anschließend:
+
+https://www.torproject.org/projects/torbrowser.html
+
+
+**Schritt 2:** Tor-Browser starten
+
+Starte den Tor-Browser anschließend. Beim Starten wird es einen kurzen moment dauern bis eine Verbindung zum Tor-Netzwerk aufgebaut ist.
+Du solltest mit einer Seite begrüßt werden, die dir mitteilt das du mit dem Tor-Netzwerk verbunden bist.
+
+Wenn das der Fall ist kannst du anschließend anonym mit dem Tor-Browser surfen, jedoch mit den folgenden Einschränkungen:
+  * Javascript ist deaktiviert, daher kann es sein das manche Seiten nicht richtig funktionieren
+  * Die Verbindung ist langsam
+  * Du solltest dich nicht in Accounts einloggen, die persönliche Informationen über dich preisgeben, da deine Anonymität dadurch stark gefährdet wird.
+
+
 
 ## OpenPGP verschlüsselte Emails: Thunderbird & Enigmail
 
@@ -170,9 +186,37 @@ Anschließend sollte der Schlüssel verfiziert werden. Folgende Optionen stehen 
 
   * **Fingerprints vergleichen:** Alternativ zu SMP können auch die Fingerprints verglichen werden zum Beispiel per Telefon
 
-## Verschlüsselte Container: VeraCrypt
+### iOS: ChatSecure
 
 //TODO:
+
+
+## Verschlüsselte Container: VeraCrypt
+
+**Schritt 1:** Installation von VeraCrypt
+
+Lade dir VeraCrypt von der folgenden Seite herunter und installiere es:  https://sourceforge.net/projects/veracrypt/
+
+
+**Schritt 2:** Container/Volume anlegen
+
+Öffne VeraCrypt und klicke auf den Button Neues Volume erstellen. Wähle anschließend Einen verschlüsselten Datei-Container erstellen aus.
+Im nächsten Fenster Standard VeraCrypt Volume auswählen und anschließend den Speicherort angeben. Bei Verschlüsselungsoptionen können die Voreinstellungen verwendet werden.
+Bei der Eingabe der Größe des Volume sollte beachtet werden, dass diese später nicht mehr geändert werden kann. Daher sollte man hier zur Sicherheit eher einen größeren Wert eintragen.
+
+Das Passwort für das Volume sollte möglichst lang und komplex sein, weshalb hierfür ein Passwort-Manager z.B. Keepass zu empfehlen ist.
+
+Bei Formatierungsoptionen können ebenfalls die Voreinstellungen übernommen werden. Im nächsten Schritt muss der Mauszeiger im Fenster über einen längeren Zeitraum zufällig bewegt werden bis der obere Balken vollständig gefüllt ist.
+
+Klicke anschließend auf den Formatieren Button um die Erstellung abzuschließen.
+Nach der erstellung können entweder weitere Container/Volumes erstellt werden oder der Assistent beendet werden.
+
+**Schritt 3:** Container/Volume einbinden
+
+Um den verschlüsselten Container/Volume nutzen zu können muss dieser eingebunden werden. Wähle hierfür in der Liste einen Slot aus und wähle im unteren Bereich mit einem Klick auf Datei das zuvor erstellte Volume aus.
+Klicke auf den Button Einbinden und gebe anschließend das Passwort für das Volume ein. Danach sollte das Volume automatisch als Laufwerk in der Dateiverwaltung erscheinen und kann verwendet werden um dort Dateien und Verzeichnisse abzulegen oder zu bearbeiten.
+
+Wenn du mit der Arbeit an den Dateien im Volume fertig bist schließe diesen wieder mit dem Button Aushängen.
 
 # Weitere Links
 **Surveillance Self-Defense | Electronic Frontier Foundation:** https://ssd.eff.org/en
