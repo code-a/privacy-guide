@@ -1,15 +1,26 @@
 # Privacy Guide
 
+- [Master-Passwort](#master-passwort)
+  * [Master-Passwort mit Würfeln erstellen](#master-passwort-mit-w-rfeln-erstellen)
 - [Software](#software)
   * [System-Verschlüsselung](#system-verschl-sselung)
   * [Passwort-Manager: KeepassXC](#passwort-manager--keepassxc)
   * [Anonym Surfen: Tor-Browser](#anonym-surfen--tor-browser)
   * [OpenPGP verschlüsselte Emails: Thunderbird & Enigmail](#openpgp-verschl-sselte-emails--thunderbird---enigmail)
+    + [Anleitung: Öffentlichen Schlüssel auf Schlüssel-Server veröffentlichen](#anleitung---ffentlichen-schl-ssel-auf-schl-ssel-server-ver-ffentlichen)
   * [Pseudonymiserte Emails: TorBirdy](#pseudonymiserte-emails--torbirdy)
   * [OMEMO-verschlüsselt chatten: Conversations & ChatSecure](#omemo-verschl-sselt-chatten--conversations---chatsecure)
+    + [Android: Conversations](#android--conversations)
+      - [Installation](#installation)
+      - [Account einrichten](#account-einrichten)
+      - [Kontakte hinzufügen](#kontakte-hinzuf-gen)
+      - [Verschlüsselte Konversation & Schlüssel-Verifizierung](#verschl-sselte-konversation---schl-ssel-verifizierung)
+    + [iOS: ChatSecure](#ios--chatsecure)
   * [Verschlüsselte Container: VeraCrypt](#verschl-sselte-container--veracrypt)
+- [Weitere Links](#weitere-links)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 **Themen**
@@ -49,6 +60,7 @@ Benötigtes Material:
     * Passwort pauken bis es im Kopf ist
     * ...
 
+*Quelle: https://www.eff.org/dice*
 
 # Software
 ## System-Verschlüsselung
