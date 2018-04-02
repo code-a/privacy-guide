@@ -25,7 +25,7 @@
 
 # Software
 ## System-Verschlüsselung
-//TODO: 
+//TODO:
 
 ## Passwort-Manager: KeepassXC
 **Installation:**
@@ -144,8 +144,18 @@ Um einen Schlüssel zu verifizieren rufst du am besten die Person zu der der Sch
 
 ## Pseudonymiserte Emails: TorBirdy
 
-//TODO:
+**Schritt 1:** TorBirdy installieren
 
+TorBirdy von folgender Adresse herunterladen: https://addons.mozilla.org/de/thunderbird/addon/torbirdy/
+
+Anschließend Thunderbird starten und über das "Katalog-Symbol" in der oberen rechten Ecke den Punkt "Add-ons" anklicken.
+
+Danach in dem neu geöffneten Tab im Menü "Erweiterungen/Extensions" auswählen.
+Mit einem Klick auf das "Zahnrad-Symbol"->"Add-on aus Datei installieren/Install Add-on from file" die heruntergeladene Datei auswählen und installieren.
+
+**Schritt 2:** TorBirdy nutzen
+
+Sobald TorBirdy aktiviert ist können die Emails nur noch über das Tor-Netz abgerufen werden. Daher ist es notwendig Tor/Tor-Browser während der Nutzung von Thunderbird laufen zu lassen.
 
 ## OMEMO-verschlüsselt chatten: Conversations & ChatSecure
 
