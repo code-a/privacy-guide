@@ -23,9 +23,22 @@
   * Email-Verschlüsselung
   * Chat-Verschlüsselung mit XMPP+OMEMO
 
+
+# Master-Passwort
+//TODO:
+
 # Software
 ## System-Verschlüsselung
-//TODO:
+Die System-Verschlüsselung sollte direkt bei der Installation des Betriebssystems aktiviert werden.
+
+Die meisten GNU/Linux-Distributionen unterstützen das Einrichten der System-Verschlüsselung/Full disk encryption bei der Installation. Hierzu zählen unter Anderem:
+
+  * Debian
+  * Ubuntu (enthält proprietäre Bestandteile)
+  * Mint (enthält proprietäre Bestandteile)
+  * Manjaro
+
+**Von der Verwendung von proprietären Betriebssystemen und System-Verschlüsselungen ist dringend abzuraten!**
 
 ## Passwort-Manager: KeepassXC
 **Installation:**
