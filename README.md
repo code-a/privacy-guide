@@ -25,7 +25,30 @@
 
 
 # Master-Passwort
-//TODO:
+
+## Master-Passwort mit Würfeln erstellen
+
+Benötigtes Material:
+
+  * 5 Würfel
+  * Folgende Wortliste: https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt
+
+**Generierung des Passworts:**
+
+  * Die Würfel nehmen und alle 5 Würfel gleichzeitig würfeln
+  * Die gewürfelten Zahlen in einer Reihe aufschreiben z.B. 4, 1, 4, 3, 5
+  * Weitere 5 Mal mit den 5 Würfeln würfeln und die Zahlen bei jedem durchgang in einer neuen Zeile aufschreiben
+  * Die Wortliste öffnen und zu jeder 5 stelligen Zahl das zugehörige Wort aufschreiben
+  * Ihr solltet anschließend 6 Wörter aufgeschrieben haben, so dass ihr ein langes Grundpasswort ähnlich dem Folgenden habt:
+    * panoramic nectar precut smith banana handclap
+  * Dieses Passwort hat bereits eine Komplexität von etwa 72 Bit
+  * Anschließend die Komplexität durch das Einstreuen von Zahlen und Sonderzeichen zwischen den Wörtern erhöhen, z.B.
+    * 1panoramic7nectar!precut/smith#banana_handclap
+  * Als letzten Schritt muss man sich das Passwort noch merken :(... Methoden:
+    * Eselsbrücke
+    * Passwort pauken bis es im Kopf ist
+    * ...
+
 
 # Software
 ## System-Verschlüsselung
