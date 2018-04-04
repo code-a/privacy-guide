@@ -24,10 +24,11 @@
 
 @title[Freie vs unfreie Software]
 
-# Unfreie/Proprietäre Software
+#### Unfreie/Proprietäre Software
 Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Quelltext nicht einsehbar/änderbar ist.
 
-### Beispiele:
+**Beispiele:**
+
   * Microsoft Windows
   * MacOS
   * Microsoft Word
@@ -35,7 +36,7 @@ Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Que
   
 ---
 
-# Probleme bei proprietärer/unfreier Software
+#### Probleme bei proprietärer/unfreier Software
 
   * **Quelltext nicht einsehbar**: Schwierigkeit bei Suche nach Sicherheitslücken/Hintertüren
   * Software nicht legal änderbar: Kommerzielle Lizenz -> Sicherheitslücken **dürfen nicht** durch Dritte geschlossen werden.
@@ -46,7 +47,7 @@ Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Que
 ---
 
 @title[Freie Betriebssysteme]
-# Auswahl freier Betriebssysteme
+#### Auswahl freier Betriebssysteme
 
   * **Tails:** GNU/Linux optimiert für den Schutz der Privatsphäre
   * Debian/Ubuntu/Mint (kann unfreie Software enthalten)
@@ -55,7 +56,7 @@ Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Que
 ---
 
 @title[Mobile Plattformen]
-# Mobile Plattformen
+#### Mobile Plattformen
 
   * **Tails:** GNU/Linux optimiert für den Schutz der Privatsphäre
   * Debian/Ubuntu/Mint (kann unfreie Software enthalten)
