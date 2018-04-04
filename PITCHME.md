@@ -36,9 +36,16 @@ Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Que
   
 ---
 
-#### Probleme bei proprietärer/unfreier Software
+##### Probleme bei proprietärer/unfreier Software
 
   * **Quelltext nicht einsehbar**: Schwierigkeit bei Suche nach Sicherheitslücken/Hintertüren
+
+##### Probleme bei proprietärer/unfreier Software
+
+
+##### Probleme bei proprietärer/unfreier Software
+
+
   * Software nicht legal änderbar: Kommerzielle Lizenz -> Sicherheitslücken **dürfen nicht** durch Dritte geschlossen werden.
     * Beispiel: WannaCry und Windows XP
   * Oftmals keine Möglichkeit ungewollte "Updates" zu unterbinden
