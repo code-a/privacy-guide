@@ -1,17 +1,20 @@
-@title[Introduction]
+@title[Einführung]
 
 #### Schutz der Privatsphäre
 <br>
 <br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span class="byline">[ code-a.io/privacy-guide ]</span>
 
 ---
 
-@title[PITCHME.md]
+@title[Übersicht]
 
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
+  * Passwörter
+  * Freie vs unfreie Software
+  * Systemverschlüsselung
+  * Anonymisierung
+  * Email-Verschlüsselung
+  * Verschlüsselte Messenger
 <br>
 <span class="aside">Just like this one...</span>
 
