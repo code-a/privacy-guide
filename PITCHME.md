@@ -24,18 +24,42 @@
 
 @title[Freie vs unfreie Software]
 
-#### No more <span class="gray">Keynote</span>.
-#### No more <span class="gray">Powerpoint</span>.
-<br>
-#### Just <span class="gold">Markdown</span>.
-#### Then <span class="gold">Git-Commit</span>.
+# Unfreie/Proprietäre Software
+Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Quelltext nicht einsehbar/änderbar ist.
 
----?code=assets/md/hello.md&title=Step 1. PITCHME.md
+### Beispiele:
+  * Microsoft Windows
+  * MacOS
+  * Microsoft Word
+  * ...
+  
+---
 
-<br>
-#### Create slideshow content using GitHub Flavored Markdown in your favorite editor.
+# Probleme bei proprietärer/unfreier Software
 
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
+  * **Quelltext nicht einsehbar**: Schwierigkeit bei Suche nach Sicherheitslücken/Hintertüren
+  * Software nicht legal änderbar: Kommerzielle Lizenz -> Sicherheitslücken **dürfen nicht** durch Dritte geschlossen werden.
+    * Beispiel: WannaCry und Windows XP
+  * Oftmals keine Möglichkeit ungewollte "Updates" zu unterbinden
+  * Oftmals keine Möglichkeit ungewünschte Datenweitergabe zu unterbinden
+
+---
+
+@title[Freie Betriebssysteme]
+# Auswahl freier Betriebssysteme
+
+  * **Tails:** GNU/Linux optimiert für den Schutz der Privatsphäre
+  * Debian/Ubuntu/Mint (kann unfreie Software enthalten)
+  * Arch/Manjaro Linux
+
+---
+
+@title[Mobile Plattformen]
+# Mobile Plattformen
+
+  * **Tails:** GNU/Linux optimiert für den Schutz der Privatsphäre
+  * Debian/Ubuntu/Mint (kann unfreie Software enthalten)
+  * Arch/Manjaro Linux
 
 ---
 
