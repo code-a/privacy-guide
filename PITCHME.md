@@ -9,16 +9,20 @@
 
 @title[Übersicht]
 
-  * Passwörter
+#### Übersicht
+
   * Freie vs unfreie Software
+  * Passwörter
   * Systemverschlüsselung
   * Anonymisierung
   * Email-Verschlüsselung
   * Verschlüsselte Messenger
 <br>
-<span class="aside">Just like this one...</span>
+<span class="aside">...</span>
 
 ---
+
+@title[Freie vs unfreie Software]
 
 #### No more <span class="gray">Keynote</span>.
 #### No more <span class="gray">Powerpoint</span>.
