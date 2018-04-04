@@ -20,6 +20,18 @@
 <br>
 <span class="aside">...</span>
 
+
+---
+
+@title[Gründe für Schutzmaßnahmen]
+
+#### Warum Schutzmaßnahmen?
+
+  * Aktive (staatliche) Angriffe
+  * Staatliche/Private Überwachung
+  * Diebstahl
+  * Hausdurchsuchung
+  
 ---
 
 @title[Freie vs unfreie Software]
@@ -40,14 +52,18 @@ Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Que
 
   * **Quelltext nicht einsehbar**: Schwierigkeit bei Suche nach Sicherheitslücken/Hintertüren
 
+---
+
 ##### Probleme bei proprietärer/unfreier Software
 
-
-##### Probleme bei proprietärer/unfreier Software
-
-
-  * Software nicht legal änderbar: Kommerzielle Lizenz -> Sicherheitslücken **dürfen nicht** durch Dritte geschlossen werden.
+  * Software nicht legal änderbar
+    * Kommerzielle Lizenz -> Sicherheitslücken **dürfen nicht** durch Dritte geschlossen werden.
     * Beispiel: WannaCry und Windows XP
+
+---
+
+##### Probleme bei proprietärer/unfreier Software  
+
   * Oftmals keine Möglichkeit ungewollte "Updates" zu unterbinden
   * Oftmals keine Möglichkeit ungewünschte Datenweitergabe zu unterbinden
 
