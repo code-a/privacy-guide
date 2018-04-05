@@ -80,12 +80,32 @@ Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Que
 
 @title[Mobile Plattformen]
 #### Mobile Plattformen
+Können generell als unsicher eingestuft werden.
 
-  * **Tails:** GNU/Linux optimiert für den Schutz der Privatsphäre
-  * Debian/Ubuntu/Mint (kann unfreie Software enthalten)
-  * Arch/Manjaro Linux
+  * Updates für ältere Geräte werden nicht gepflegt
+  * Unerwünschte Apps
 
 ---
+#### Mobile Platformen
+
+  * Einschränkungen bei Nutzbarkeit
+    * z.B. Eingabe von langen Passwörtern
+  * Telefonverschlüsselung fast immer **unsicher**
+
+---
+#### Passwörter
+
+  * Länge wichtiger als Komplexität
+  * Keine Zitate
+  * Keine aus Zitaten abgeleiteten Passwörter
+  
+---
+#### Passwörter: Empfehlung
+
+  * Empfehlung Passwort-Manager: KeePassXC
+  * Starkes Master-Passwort
+---
+
 
 @title[Step 2. Git-Commit]
 
