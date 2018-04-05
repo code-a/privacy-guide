@@ -106,6 +106,35 @@ Können generell als unsicher eingestuft werden.
   * Starkes Master-Passwort
 ---
 
+#### Master-Passwort mit Würfel erstellen
+**Voraussetzungen:**
+
+  * 6 Würfel
+  * EFF SSD Wortliste
+  
+**Anleitung mit Links im Anhang**
+
+---
+
+#### Festplatten-/Systemverschlüsselung
+  * **Empfohlen**
+  * Sollte freie Software sein
+  * Bei den meisten GNU/Linux-Systemen schon bei der Installation einrichtbar
+  
+---
+
+#### Fall-Beispiel 1: Jeremy Hammond
+
+  * Aktivist, Hacktivist, Antifaschist
+  * Bekannteste Aktion: Stratfor-Hack(Privatwirtschaftlicher Geheimdienst)
+    * 
+  * 2013: Verurteilung zu 10 Jahren Haft
+
+---
+
+#### 
+
+
 
 @title[Step 2. Git-Commit]
 
