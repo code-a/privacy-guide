@@ -173,87 +173,95 @@ Was kann dann schon schief gehen?
 
 ---
 
+#### Anonymität
 
-
-
-@title[Step 2. Git-Commit]
-
-### <span class="gold">STEP 2. GIT-COMMIT</span>
-<br>
-
-```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
-
-Done!
-```
-
-@[1](Add your PITCHME.md slideshow content file.)
-@[2](Commit PITCHME.md to your local repo.)
-@[3](Push PITCHME.md to your public repo and you're done!)
-@[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
+Verhinderung der Verfolgung von Online-Aktivitäten mit Tor
 
 ---
 
-@title[Step 3. Done!]
+#### Wie funktioniert Tor?
 
-### <span class="gold">STEP 3. GET THE WORD OUT!</span>
-<br>
-![GitPitch Slideshow URLs](assets/images/gp-slideshow-urls.png)
-<br>
-<br>
-#### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
+<img src="https://www.torproject.org/images/htw2.png">
 
 ---
 
-@title[Slide Rich]
+#### Anonym surfen
 
-### <span class="gold">Slide Rich</span>
+**Empfehlung: Tor-Browser-Bundle**
 
-#### Code Presenting for Blocks, Files, and GISTs
-#### Image, Video, Chart, and Math Slides
-#### Multiple Themes with Easy Customization
-<br>
-#### <span class="gold">Plus collaboration is built-in...</span>
-#### Your Slideshow is Part of Your Project
-#### Under Git Version Control within Your Git Repo
+Anleitung im Anhang
 
 ---
 
-@title[Feature Rich]
+#### Emails Pseudonymisieren
 
-### <span class="gold">Feature Rich</span>
+Empfehlung: Thunderbird & TorBirdy
 
-#### Present Online or Offline
-#### With Speaker Notes Support
-#### Print Presentation as PDF
-#### Auto-Generated Table-of-Contents
-#### Share Presentation on Twitter or LinkedIn
+Anleitung im Anhang
 
 ---
 
-### <span class="gold">GitPitch Pro - Now Live!</span>
+#### Email-Verschlüsselung mit OpenPGP
 
-<br>
-<div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
-</div>
-<div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
-</div>
+  * Öffentliche Schlüssel müssen vorher ausgetauscht werden
+  * Nachrichteninhalte sind verschlüsselt
+  * Enigmail: Betreff ist auch verschlüsselt
 
 ---
 
-### Go for it.
-### Just add <span class="gold">PITCHME.md</span> ;)
-<br>
-[Click here to learn more @fa[external-link fa-pad-left]](https://github.com/gitpitch/gitpitch/wiki)
+#### Email-Verschlüsselung mit OpenPGP
+
+**Empfehlung: Thunderbird & Enigmail**
+
+Anleitung im Anhang
+
+---
+
+#### Verschlüsselte Messenger
+
+Wer benutzt Signal?
+
+---
+
+#### Verschlüsselte Messenger
+
+Wer hat mindestens einmal Fingerprints abgeglichen?
+
+---
+
+#### Still not loving Signal
+
+  * Keine Dezentralisierung
+  * Ablehnung von freien Ablegern die auf proprietäre Bestandteile verzichten
+
+---
+#### Still not loving Signal
+
+  * Handynummer als ID -> Meta-Daten
+  * Kontakte werden an Signal-Server gesendet
+  
+---
+
+#### Still not loving Signal
+
+  * Keine Protokoll-Standardisierung
+  * Distribution über google play
+
+#### Still not loving Signal
+
+Niemand überprüft Fingerabdrücke
+
+#### Verschlüsselte Messenger Alternative
+
+Protokoll:
+
+  * XMPP
+  * OMEMO
+
+---
+
+#### Verschlüsselte Messenger Alternative
+
+  * Android: Conversations
+  * iOS: ChatSecure
+  * Desktop: Gajim + OMEMO-Plugin
