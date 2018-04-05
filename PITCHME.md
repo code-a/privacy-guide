@@ -126,13 +126,53 @@ Können generell als unsicher eingestuft werden.
 #### Fall-Beispiel 1: Jeremy Hammond
 
   * Aktivist, Hacktivist, Antifaschist
-  * Bekannteste Aktion: Stratfor-Hack(Privatwirtschaftlicher Geheimdienst)
-    * 
+  * 24.12.2012: Stratfor-Hack(Privatwirtschaftlicher Geheimdienst)
+    * Überweisung von ~1.000.000 USD and das Rote Kreuz 
+    * Global Intelligence Files
   * 2013: Verurteilung zu 10 Jahren Haft
 
 ---
 
-#### 
+#### Jeremy Hammond
+**Jeremy's Fehler:**
+
+  * **MacOS:** Proprietäre Systemverschlüsselung wurde vom FBI geknackt
+  * **Passwort für VeraCrypt-Container:** Chewy1234
+
+---
+
+**Und wenn man alles richtig gemacht hat?**
+
+Was kann dann schon schief gehen?
+
+---
+
+#### Fall-Beispiel 2: Muhammad Rabbani
+
+  * Britischer Aktivist
+  * Setzt sich für die Rechte muslimischer Gefangener ein
+  
+---
+
+  * 2017: Festnahme am Flughafen wegen der Weigerung der Passwortherausgabe für verschlüsselte Geräte
+  * 12 Monate Haft auf Bewährung
+  * Geldstrafe
+
+---
+
+#### Die Lage in Deutschland
+
+  * Kein Zwang zur Passwortherausgabe
+  * Aber in Zukunft wahrscheinlich mehr Repression
+  
+---
+
+#### Reform des Polizeigesetzes in Bayern
+
+**3 Monate Vorbeugehaft ohne richterliche Zustimmung möglich**
+
+---
+
 
 
 
