@@ -1,5 +1,3 @@
-footnote : "© 2016 One Tap Beyond Inc."
-
 @title[Einführung]
 
 #### Schutz der Privatsphäre
@@ -247,11 +245,8 @@ Wer hat mindestens einmal Fingerprints abgeglichen?
 #### Still not loving Signal
 
   * Keine Protokoll-Standardisierung
-  * Distribution über google play
-
-#### Still not loving Signal
-
-Niemand überprüft Fingerabdrücke
+  * Distribution über Google Play
+  * Niemand überprüft Fingerabdrücke
 
 #### Verschlüsselte Messenger Alternative
 
@@ -267,3 +262,10 @@ Protokoll:
   * Android: Conversations
   * iOS: ChatSecure
   * Desktop: Gajim + OMEMO-Plugin
+
+---
+
+#### Empfehlungen
+
+  * Privacy Guide: code-a.io/privacy-guide
+  * Tails Anleitung: capulcu.blackblogs.org/neu-2
