@@ -49,6 +49,8 @@ Server-Betriebssystem für sichere Kollaboration durch Verschlüsselung & Anonym
   * Apps
     * Cryptpad
     * Nextcloud/Seafile
+
+
 ---
 
 @title[Einführung]
@@ -90,7 +92,7 @@ Jederzeit Fragen!
   * Diebstahl
   * Hausdurchsuchung
 
-+++
+---
 
 #### Probleme
 
@@ -106,7 +108,7 @@ Linke Anbieter nutzen und unterstützen!
 Probe RequestsBeispiel: Big Data (Spiegelmining)
 Software vom Hersteller laden nicht immer weiterklicken!
 
-+++
+---
 
 #### Social Engineering
   
@@ -117,7 +119,7 @@ Software vom Hersteller laden nicht immer weiterklicken!
 Note:
 HTML Link ≠ Tatsächliche URL
 
-+++
+---
 
 #### Browsing und Internet
 
