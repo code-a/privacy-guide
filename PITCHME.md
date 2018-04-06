@@ -318,9 +318,9 @@ Anleitung im Anhang
 
 #### Emails Pseudonymisieren
 
-Empfehlung: Thunderbird & TorBirdy
-Trashmail: byom.de
-Anleitung im Anhang
+  * Empfehlung: Thunderbird & TorBirdy
+  * Anleitung im Anhang
+  * Trashmail: byom.de
 
 ---
 
