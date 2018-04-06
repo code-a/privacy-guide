@@ -13,7 +13,7 @@ Jederzeit Fragen!
 
 ---
 
-@title(Vorstellung)
+@title[Vorstellung]
 #### code-a.io
 
   * IT-Kollektiv
@@ -22,7 +22,7 @@ Jederzeit Fragen!
   
 ---
 
-@title(Projekte)
+@title[Projekte]
 
 #### Projekte
 
@@ -32,7 +32,7 @@ Jederzeit Fragen!
 
 ---
 
-@title(YunoHide)
+@title[YunoHide]
 #### YunoHide
 
 Server-Betriebssystem für sichere Kollaboration durch Verschlüsselung & Anonymisierung.
