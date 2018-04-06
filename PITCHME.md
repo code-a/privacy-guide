@@ -13,6 +13,23 @@ Jederzeit Fragen!
 
 ---
 
+@title(Vorstellung)
+#### code-a.io
+
+  * IT-Kollektiv
+  * Entwicklung freier Software
+  * Fokus auf IT-Sicherheit für End-Nutzer
+  
+---
+
+@title(Projekte)
+
+  * IT-Infrastruktur
+  * Privacy Guide
+  * YunoHide
+
+---
+
 @title[Übersicht]
 
 #### Übersicht
