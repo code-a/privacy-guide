@@ -1,3 +1,5 @@
+footnote : "© 2016 One Tap Beyond Inc."
+
 @title[Einführung]
 
 #### Schutz der Privatsphäre
@@ -31,7 +33,7 @@
   * Staatliche/Private Überwachung
   * Diebstahl
   * Hausdurchsuchung
-  
+
 ---
 
 @title[Freie vs unfreie Software]
@@ -45,7 +47,7 @@ Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Que
   * MacOS
   * Microsoft Word
   * ...
-  
+
 ---
 
 ##### Probleme bei proprietärer/unfreier Software
@@ -98,7 +100,7 @@ Können generell als unsicher eingestuft werden.
   * Länge wichtiger als Komplexität
   * Keine Zitate
   * Keine aus Zitaten abgeleiteten Passwörter
-  
+
 ---
 #### Passwörter: Empfehlung
 
@@ -111,7 +113,7 @@ Können generell als unsicher eingestuft werden.
 
   * 6 Würfel
   * EFF SSD Wortliste
-  
+
 **Anleitung mit Links im Anhang**
 
 ---
@@ -120,7 +122,7 @@ Können generell als unsicher eingestuft werden.
   * **Empfohlen**
   * Sollte freie Software sein
   * Bei den meisten GNU/Linux-Systemen schon bei der Installation einrichtbar
-  
+
 ---
 
 #### Fall-Beispiel 1: Jeremy Hammond
@@ -151,7 +153,7 @@ Was kann dann schon schief gehen?
 
   * Britischer Aktivist
   * Setzt sich für die Rechte muslimischer Gefangener ein
-  
+
 ---
 
   * 2017: Festnahme am Flughafen wegen der Weigerung der Passwortherausgabe für verschlüsselte Geräte
@@ -164,7 +166,7 @@ Was kann dann schon schief gehen?
 
   * Kein Zwang zur Passwortherausgabe
   * Aber in Zukunft wahrscheinlich mehr Repression
-  
+
 ---
 
 #### Reform des Polizeigesetzes in Bayern
@@ -239,7 +241,7 @@ Wer hat mindestens einmal Fingerprints abgeglichen?
 
   * Handynummer als ID -> Meta-Daten
   * Kontakte werden an Signal-Server gesendet
-  
+
 ---
 
 #### Still not loving Signal
