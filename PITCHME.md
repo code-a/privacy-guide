@@ -43,13 +43,22 @@ Jederzeit Fragen!
   * Internetbetreiber kooperieren mit den Cops
   * Metadaten 
   * Unverschlüsselte Seiten
+  * Adware
 
 Note:
 Linke Anbieter nutzen und unterstützen!
 „We kill people based on metadata“ - ehem. NSA-Chef
 Probe RequestsBeispiel: Big Data (Spiegelmining)
+Software vom Hersteller laden nicht immer weiterklicken!
 
+#### Social Engineering
+  
+  * Phishing
+  * Dumpster Diving
+  * Social Media & Persönlich
 
+Note:
+HTML Link ≠ Tatsächliche URL
 
 
 ---
@@ -72,13 +81,12 @@ Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Que
 
   * **Quelltext nicht einsehbar**
     * Schwierigkeit bei Suche nach Sicherheitslücken/Hintertüren
-    * 
 
 ---
 
 ##### Probleme bei proprietärer/unfreier Software
 
-  * Software nicht legal änderbar
+  * Software nicht legal änderbar, Mensch kann nicht mitwirken
     * Kommerzielle Lizenz -> Sicherheitslücken **dürfen nicht** durch Dritte geschlossen werden.
     * Beispiel: WannaCry und Windows XP
 
@@ -87,7 +95,7 @@ Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Que
 ##### Probleme bei proprietärer/unfreier Software  
 
   * Oftmals keine Möglichkeit ungewollte "Updates" zu unterbinden
-  * Oftmals keine Möglichkeit ungewünschte Datenweitergabe zu unterbinden
+  * oft keine Möglichkeit ungewünschte Datenweitergabe zu unterbinden
 
 ---
 
@@ -122,13 +130,15 @@ Können generell als unsicher eingestuft werden.
   * Länge wichtiger als Komplexität
   * Keine Zitate
   * Keine aus Zitaten abgeleiteten Passwörter
+  * gleiche Passwörter vermeiden
+
 
 ---
 #### Passwörter
 
   * Passwort-Manager Empfehlung:  KeePassXC
-  * Starkes Master-Passwort
-  * OpenSource
+  * Ein einziges starkes Master-Passwort
+  * Kein Schutz vor SE, Keyloggern oder BruteForce
 
 ---
 
@@ -144,8 +154,11 @@ Können generell als unsicher eingestuft werden.
 
 #### Festplatten-/Systemverschlüsselung
   * **Empfohlen**
-  * Sollte freie Software sein
+  * Sollte freie Software sein (Veracrypt)
   * Bei den meisten GNU/Linux-Systemen schon bei der Installation einrichtbar
+
+Note: 
+kein Truecrypt!
 
 ---
 
@@ -222,16 +235,20 @@ Anleitung im Anhang
 #### Emails Pseudonymisieren
 
 Empfehlung: Thunderbird & TorBirdy
-
+Trashmail: byom.de
 Anleitung im Anhang
 
 ---
 
 #### Email-Verschlüsselung mit OpenPGP
 
+  * Unverschlüsselte Mails können leicht abgefangen und gelesen werden
   * Öffentliche Schlüssel müssen vorher ausgetauscht werden
   * Nachrichteninhalte sind verschlüsselt
   * Enigmail: Betreff ist auch verschlüsselt
+
+Note:
+ich gebe dir ein Vorhängeschloss und behalte den Schlüssel
 
 ---
 
@@ -288,6 +305,7 @@ Protokoll:
   * Android: Conversations
   * iOS: ChatSecure
   * Desktop: Gajim + OMEMO-Plugin
+  * *Verwaltung von Gruppenchats noch schwierig*
 
 ---
 
