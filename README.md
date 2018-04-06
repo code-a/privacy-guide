@@ -1,5 +1,6 @@
 # Privacy Guide
 
+- [Präsentation](#pr-sentation)
 - [Master-Passwort](#master-passwort)
   * [Master-Passwort mit Würfeln erstellen](#master-passwort-mit-w-rfeln-erstellen)
 - [Software](#software)
@@ -23,16 +24,9 @@
 
 
 
-**Themen**
+# Präsentation
 
-  * Freie Betriebssysteme
-  * Desktop vs. Mobile OS
-  * Freie Software
-  * Passwörter: https://www.eff.org/dice
-  * Full-Disk-Encryption
-  * Tor-Browser zum Surfen
-  * Email-Verschlüsselung
-  * Chat-Verschlüsselung mit XMPP+OMEMO
+[gitpitch.com/code-a/privacy-guide](https://gitpitch.com/code-a/privacy-guide)
 
 
 # Master-Passwort
