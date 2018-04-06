@@ -1,21 +1,5 @@
 @title[Einführung]
 
-Hello!
-
-+++
-
-Hola!
-
----
-
-Goodbye!
-
-+++
-
-Adiós!
-
-
-
 #### Schutz der Privatsphäre
 <br>
 <br>
@@ -42,17 +26,31 @@ Jederzeit Fragen!
 <br>
 <span class="aside">...</span>
 
-
 ---
 
-@title[Gründe für Schutzmaßnahmen]
+@title[Sensibilisierung]
 
 #### Warum Schutzmaßnahmen?
 
-  * Aktive (staatliche) Angriffe
+  * Aktive Angriffe  (staatlich/politisch) 
   * Staatliche/Private Überwachung
   * Diebstahl
   * Hausdurchsuchung
+
+#### Probleme
+
+  * Öffentliches WLAN
+  * Internetbetreiber kooperieren mit den Cops
+  * Metadaten 
+  * Unverschlüsselte Seiten
+
+Note:
+Linke Anbieter nutzen und unterstützen!
+„We kill people based on metadata“ - ehem. NSA-Chef
+Probe RequestsBeispiel: Big Data (Spiegelmining)
+
+
+
 
 ---
 
@@ -72,7 +70,9 @@ Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Que
 
 ##### Probleme bei proprietärer/unfreier Software
 
-  * **Quelltext nicht einsehbar**: Schwierigkeit bei Suche nach Sicherheitslücken/Hintertüren
+  * **Quelltext nicht einsehbar**
+    * Schwierigkeit bei Suche nach Sicherheitslücken/Hintertüren
+    * 
 
 ---
 
@@ -91,7 +91,6 @@ Grobe Definition: Software deren Nutzung aktiv eingeschränkt wird und deren Que
 
 ---
 
-@title[Freie Betriebssysteme]
 #### Auswahl freier Betriebssysteme
 
   * **Tails:** GNU/Linux optimiert für den Schutz der Privatsphäre
@@ -115,6 +114,9 @@ Können generell als unsicher eingestuft werden.
   * Telefonverschlüsselung fast immer **unsicher**
 
 ---
+
+@title[Passwörter]
+
 #### Passwörter
 
   * Länge wichtiger als Komplexität
@@ -122,10 +124,12 @@ Können generell als unsicher eingestuft werden.
   * Keine aus Zitaten abgeleiteten Passwörter
 
 ---
-#### Passwörter: Empfehlung
+#### Passwörter
 
-  * Empfehlung Passwort-Manager: KeePassXC
+  * Passwort-Manager Empfehlung:  KeePassXC
   * Starkes Master-Passwort
+  * OpenSource
+
 ---
 
 #### Master-Passwort mit Würfel erstellen
