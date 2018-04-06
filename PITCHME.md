@@ -13,6 +13,59 @@ Jederzeit Fragen!
 
 ---
 
+@title[Vorstellung]
+#### code-a.io
+
+  * IT-Kollektiv
+  * Entwicklung freier Software
+  * Fokus auf IT-Sicherheit für End-Nutzer
+  
+---
+
+@title[Projekte]
+
+#### Projekte
+
+  * IT-Infrastruktur
+  * Privacy Guide
+  * YunoHide
+
+---
+
+@title[YunoHide]
+#### YunoHide
+
+Server-Betriebssystem für sichere Kollaboration durch Verschlüsselung & Anonymisierung.
+
+  * Stand: Experimentell
+  * Mail-Server als Hidden Service
+  * XMPP-Server als Hidden Service
+
+---
+
+#### YunoHide: Weitere Ziele
+
+  * Stabilisierung
+  * Apps
+    * Cryptpad
+    * Nextcloud/Seafile
+---
+
+@title[Einführung]
+
+#### Schutz der Privatsphäre
+<br>
+<br>
+<span class="byline">[ code-a.io/privacy-guide ]</span>
+
+Note:
+Vorstellung
+Bisherige Kenntnisse?
+Wollt ihr was bestimmtes lernen?
+Jederzeit Fragen! 
+
+---
+
 @title[Übersicht]
 
 #### Übersicht
