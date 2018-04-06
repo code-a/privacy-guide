@@ -37,6 +37,8 @@ Jederzeit Fragen!
   * Diebstahl
   * Hausdurchsuchung
 
++++
+
 #### Probleme
 
   * Öffentliches WLAN
@@ -51,6 +53,8 @@ Linke Anbieter nutzen und unterstützen!
 Probe RequestsBeispiel: Big Data (Spiegelmining)
 Software vom Hersteller laden nicht immer weiterklicken!
 
++++
+
 #### Social Engineering
   
   * Phishing
@@ -60,6 +64,15 @@ Software vom Hersteller laden nicht immer weiterklicken!
 Note:
 HTML Link ≠ Tatsächliche URL
 
++++
+
+#### Browsing und Internet
+
+  * VPN nutzen
+  * Werbe- und Trackingblocker 
+  * WHOIS Antifa?
+  * Risiko: WordPress
+  * 
 
 ---
 
@@ -211,6 +224,22 @@ Was kann dann schon schief gehen?
 **3 Monate Vorbeugehaft ohne richterliche Zustimmung möglich**
 
 ---
+
+#### Backups
+
+  * werden oft unterschätzt
+  * Helfen bei Hausdurchsuchung, Defekt & Trojanern
+  * 3-2-1 Regel
+
+---
+
+#### Datenlöschung
+
+  * gelöscht ≠ gelöscht
+  * Beispiel: Kontoauszug
+  * Eraser nutzen
+  * weitere Tipps: Tails Anleitung
+
 
 #### Anonymität
 
