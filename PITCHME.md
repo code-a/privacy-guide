@@ -1,9 +1,31 @@
 @title[Einführung]
 
+Hello!
+
++++
+
+Hola!
+
+---
+
+Goodbye!
+
++++
+
+Adiós!
+
+
+
 #### Schutz der Privatsphäre
 <br>
 <br>
 <span class="byline">[ code-a.io/privacy-guide ]</span>
+
+Note:
+Vorstellung
+Bisherige Kenntnisse?
+Wollt ihr was bestimmtes lernen?
+Jederzeit Fragen! 
 
 ---
 

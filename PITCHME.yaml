@@ -1,5 +1,6 @@
 logo : assets/logo.png
-logo-position : bottom-right
-footnote : "it-collective : code-a.io"
+logo-position : top-right
+footnote : "it-security talk - code-a.io"
 theme : sky
 background : assets/bg.jpg
+slide-number : true
